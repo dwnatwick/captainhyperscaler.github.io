@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AzureBacktoSchool Kick off 2020
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","id":883,"sizeSlug":"large"} -->

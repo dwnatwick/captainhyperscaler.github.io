@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AZURE SECURITY PART 2 - UNDERSTANDING AZURE POLICIES
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"id":69,"sizeSlug":"large"} -->

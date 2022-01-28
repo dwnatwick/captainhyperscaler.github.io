@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MULTI-CLOUD ADOPTION AND SHARED RESPONSIBILITY - HOW CAN AN ORGANIZATION MANAGE?
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","id":367,"sizeSlug":"large"} -->

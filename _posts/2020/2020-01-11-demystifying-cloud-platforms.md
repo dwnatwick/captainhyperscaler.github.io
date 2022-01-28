@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demystifying Cloud Platform Services
-permalink: /posts/2020/
+
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 - My First Microsoft MVP Award
-permalink: /posts/2020/ 
+
 ---
 
 <!-- wp:image {"align":"center","id":904,"sizeSlug":"large"} -->

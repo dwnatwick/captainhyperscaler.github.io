@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security Operations on Google Cloud Platform
-permalink: /posts/2022/
+
 ---
 
 **Security Operations on Google Cloud Platform**
