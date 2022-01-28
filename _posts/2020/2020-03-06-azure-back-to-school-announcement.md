@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Azure Back-to-School project
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"align":"center","id":554,"sizeSlug":"large"} -->

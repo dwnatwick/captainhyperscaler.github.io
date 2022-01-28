@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Secure Best Practices - Keeping data secure in the public cloud
+permalink: /posts/2020/
 ---
 
 <!-- wp:paragraph -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 BENEFITS OF USING A CSP FOR MICROSOFT® CLOUD CONSUMPTION
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"align":"center","id":406,"sizeSlug":"large"} -->

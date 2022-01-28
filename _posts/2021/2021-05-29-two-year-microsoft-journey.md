@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My 2+ Year Microsoft Certification Journey
+permalink: /posts/2021/
 ---
 
 <!-- wp:image {"align":"center","id":1291,"sizeSlug":"large","linkDestination":"none"} -->

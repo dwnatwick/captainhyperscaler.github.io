@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where Do I Start with the Cloud?  Part 2 - Amazon Web Services
+permalink: /posts/2020/
 ---
 
 <!-- wp:paragraph -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AZURE SECURITY PART 1 - UNDERSTANDING THE FOUNDATIONS OF AZURE SECURITY SERVICES
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"id":69,"sizeSlug":"large"} -->

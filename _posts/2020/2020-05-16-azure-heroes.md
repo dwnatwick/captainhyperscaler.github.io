@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AzureHeroes An Honor to be Recognized, and a Great Way to Recognize Others
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"id":644,"sizeSlug":"large"} -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: August Update... 2020 a Year for Growth
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"align":"center","id":217,"width":543,"height":303,"sizeSlug":"large"} -->

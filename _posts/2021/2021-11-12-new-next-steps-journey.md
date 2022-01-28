@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New and Next steps in my cloud journey
+permalink: /posts/2021/
 ---
 
 <!-- wp:image {"align":"center","id":404,"width":403,"height":269,"sizeSlug":"large"} -->
