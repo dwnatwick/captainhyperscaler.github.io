@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-
+permalink: /about/
 ---
 
 Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
