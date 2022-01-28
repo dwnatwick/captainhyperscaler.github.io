@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where Do I Start with the Cloud?  Part 3 - Google Cloud Platform
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"align":"center","id":119,"width":475,"height":225,"sizeSlug":"large"} -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Azure Back to School 2020
+permalink: /posts/2020/
 ---
 
 

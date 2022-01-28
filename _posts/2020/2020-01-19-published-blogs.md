@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Published Blog Links
+permalink: /posts/2020/
 ---
 
 

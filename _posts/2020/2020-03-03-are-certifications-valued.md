@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Are Certifications Valued by Organizations?
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"id":125,"width":296,"height":187,"sizeSlug":"large"} -->

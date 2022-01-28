@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AzureSpringClean - Using Azure Policy and Security Center for Organizational Governance. https://www.azurespringclean.com/
+permalink: /posts/2021/
 ---
 
 <!-- wp:paragraph -->

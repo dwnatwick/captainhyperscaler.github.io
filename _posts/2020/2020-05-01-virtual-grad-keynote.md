@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Inspirational Day speaking at a virtual graduation ceremony
+permalink: /posts/2020/
 ---
 
 

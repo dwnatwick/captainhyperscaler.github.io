@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Home proctoring Microsoft exams best practices
+permalink: /posts/2021/
 ---
 
 <!-- wp:image {"id":1256,"sizeSlug":"large"} -->

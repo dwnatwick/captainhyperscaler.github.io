@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Azure Sentinel Expert Talk
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"id":582,"sizeSlug":"large"} -->

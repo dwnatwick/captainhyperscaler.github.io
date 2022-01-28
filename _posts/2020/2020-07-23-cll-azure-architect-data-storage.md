@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So You want to be an Azure Solutions Architect Expert…the blog series...Data and Storage
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"align":"center","id":689,"sizeSlug":"large"} -->

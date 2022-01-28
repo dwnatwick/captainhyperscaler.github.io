@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Twelve Days of Certifications
+permalink: /posts/2020/
 ---
 
 <!-- wp:paragraph -->

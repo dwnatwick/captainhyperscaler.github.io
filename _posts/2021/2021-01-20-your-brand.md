@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Brand...Does it help?
+permalink: /posts/2021/
 ---
 
 <!-- wp:image {"align":"center","id":1150,"width":441,"height":375,"sizeSlug":"large","linkDestination":"none"} -->

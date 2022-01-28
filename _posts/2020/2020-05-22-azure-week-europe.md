@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Azure Week - May 25-29
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"id":657,"sizeSlug":"large"} -->

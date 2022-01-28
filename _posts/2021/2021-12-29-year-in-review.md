@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2021 in review. What's in store for 2022
+permalink: /posts/2021/
 ---
 
 <!-- wp:paragraph -->

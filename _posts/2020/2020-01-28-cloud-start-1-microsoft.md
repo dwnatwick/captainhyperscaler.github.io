@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where Do I Start with the Cloud?  Part 1 - Microsoft Azure
+permalink: /posts/2020/
 ---
 
 This image has an empty alt attribute; its file name is clouds-e1580309278738.png

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Can Certifications Do for Me?
+permalink: /posts/2020/
 ---
 
 <!-- wp:image {"id":120,"sizeSlug":"large"} -->

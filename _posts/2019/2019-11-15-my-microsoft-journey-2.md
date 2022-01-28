@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Microsoft Journey (Part II)
+permalink: /posts/2019/
 ---
 
 
