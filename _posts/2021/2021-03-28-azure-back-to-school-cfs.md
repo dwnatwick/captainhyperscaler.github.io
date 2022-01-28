@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Back to School 2021 - Call for Content
-permalink: /posts/2021/
+
 ---
 
 <!-- wp:image {"align":"center","id":552,"sizeSlug":"large"} -->

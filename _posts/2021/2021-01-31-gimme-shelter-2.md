@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gimme Shelter" Part 2...M365 Security
-permalink: /posts/2021/
+
 ---
 
 <!-- wp:image {"align":"center","id":373,"sizeSlug":"large","linkDestination":"none"} -->

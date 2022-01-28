@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gimme Shelter" Part 1...Security in Azure
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","width":383,"height":328} -->

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 PREDICTIONS ON THE FUTURE OF CLOUD USAGE
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","id":401,"sizeSlug":"large"} -->

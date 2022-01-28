@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More About Me
-permalink: /posts/2019/
+
 ---
 
 <!-- wp:paragraph -->

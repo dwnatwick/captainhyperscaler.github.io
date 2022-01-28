@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 CONSIDERATIONS FOR CLOUD TRANSFORMATION
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","id":398,"sizeSlug":"large"} -->

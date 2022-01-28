@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing a Certification Path
-permalink: /posts/2021/
+
 ---
 
 <!-- wp:image {"align":"center","id":1293,"sizeSlug":"large","linkDestination":"none"} -->

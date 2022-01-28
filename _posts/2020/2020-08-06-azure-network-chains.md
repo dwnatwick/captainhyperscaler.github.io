@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking down the Azure Network "Chains" YouTube series
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","id":398,"sizeSlug":"large","className":"is-style-rounded"} -->

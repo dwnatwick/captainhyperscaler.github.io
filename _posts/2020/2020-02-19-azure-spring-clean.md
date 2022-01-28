@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Spring Clean: Azure Storage and Backup Lifecycle Best Practices
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"id":472,"sizeSlug":"large"} -->

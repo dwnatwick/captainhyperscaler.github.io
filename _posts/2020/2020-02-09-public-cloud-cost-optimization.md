@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PUBLIC CLOUD COST OPTIMIZATION STRATEGIES
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"align":"center","id":404,"sizeSlug":"large"} -->

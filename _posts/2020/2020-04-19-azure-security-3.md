@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skylines blog 3 - Security Center alerts and automation workflows
-permalink: /posts/2020/
+
 ---
 
 <!-- wp:image {"id":69,"sizeSlug":"large"} -->
