@@ -4,5 +4,21 @@ title: Dwayne's speaker sessions
 permalink: /page/sessions/
 ---
 
-
+<!-- Load jQuery -->
 <script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/f4276f4c-2fc9-4ed1-b7e8-dd734577fe81/0x0x3fb393x"></script>
+
+<!-- Load plugins -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="./fluidbox/js/jquery.fluidbox.min.js"></script>
+
+<!-- JS Functions -->
+<script>
+    $(function () {
+
+        // You can use any kind of selectors for jQuery Fluidbox
+        $("a[data-fluidbox]").fluidbox();
+
+    });
+</script>
+
+</footer>
